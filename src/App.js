@@ -1,4 +1,3 @@
-//import logo from './img/';
 import './App.css';
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
       <div className='container'>
         <h1>🚧Work In Progress🔨</h1>
         <p>Hello current or future Reading Nook member! Excuse the mess, we're currently giving our website a makeover during the summer. You can follow the progress on <a href="https://github.com/gorillagripcore/readingnook.se" target="_blank" rel="noopener noreferrer">Github</a></p>
-        <p>//Ebba & Alexandra</p>
+        <p className='names'>//Ebba & Alexandra</p>
       </div>
     </div>
   );
