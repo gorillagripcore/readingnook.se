@@ -9,6 +9,11 @@ module.exports = {
         'accents': '#334893',
         'main-background': '#FDE9EF',
       },
+      fontFamily: {
+        benton: ['"benton-modern-display", serif'],
+        gastromond: ['"gastromond", serif'],
+        houschka: ['"houschka-rounded", sans-serif'],
+      },
     },
   },
   plugins: [],
