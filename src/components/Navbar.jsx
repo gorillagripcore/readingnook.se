@@ -10,7 +10,7 @@ function Navbar() {
           <li><a href="#" className="text-red-text font-gastromond hover:text-accents">Clubs</a></li>
           <li><a href="#" className="text-red-text font-gastromond hover:text-accents">Friends</a></li>
           <li>
-            <img src="/profile-img.svg" alt="Profile" className="h-10 w-10 border-2 border-red-text rounded-full"/> 
+            <img src="/profile-img.svg" alt="Profile" className="h-10 w-10 border-2 border-red-text rounded-full hover:border-accents"/> 
           </li>
         </ul>
         
